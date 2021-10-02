@@ -1,4 +1,4 @@
-# Phytohormonal and transcriptional data with R
+# Phytohormonal and transcriptional data processing and analysis with R
 *Within this notebook I will give examples for the data processing and analysis I did with R as part of my doctoral thesis.*
 
 In the first part of my doctoral thesis I investigated the activation of different signalling pathways in response to oviposition-mediated priming of anti-herbivore defences (in a nutshell: how the plant defence against feeding larvae is prepared by prior insect egg deposition, of which the larvae will hatch) in different plant species interacting with different lepidopteran herbivores. 
